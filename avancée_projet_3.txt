@@ -1,0 +1,35 @@
+--- 18/08/2021 ---
+
+à faire:
+
+- one hot encoder pour 'BuildingType' et 'PrimaryPropertyType' OK 
+- cours OCR pour déployer modèle OK
+- déployer premier modèle avec K-folding et stratification 
+
+--- 23/08/2021 ---
+
+- make pipeline avec Kfolding, 5 modèles (linear regressor, KNN, randomforest, XGBoost)
+- comparaison résultats
+
+
+--- 25/08/2021 ---
+
+- tester predictions avec 3 autres modèles non linéaires
+- comparaison finale avec tous les modèles
+- tuning d'hyperparamètres sur le meilleur des modèle
+
+-mettre en place preprocessor
+
+--- 26/08/2021 ---
+
+- debugger le warning
+- logistic regressor
+- RandomForestRegressor
+- XGBoostregressor
+- etude comparative
+- Tuning Hyperparam sur meilleur modèle
+
+
+--- 29/08/2021 ---
+
+- mise en place répertoire git
